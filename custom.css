@@ -1,0 +1,19 @@
+#content {
+	 background: black; 
+}
+
+ul {
+	list-style-type: none;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+.important {
+	color:#1CC3FFFF;
+}
+
+body {
+	background: black;
+}
